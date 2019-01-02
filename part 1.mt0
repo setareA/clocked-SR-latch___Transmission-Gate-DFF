@@ -1,0 +1,6 @@
+$DATA1 SOURCE='HSPICE' VERSION='A-2008.03 32-BIT'
+.TITLE '* clocked sr latch*'
+ t_rise           t_fall           setuptime        holdtime          
+ temper           alter#            
+  1.421e-08       -3.193e-08       -3.205e-08        3.205e-08        
+   25.0000           1.0000         

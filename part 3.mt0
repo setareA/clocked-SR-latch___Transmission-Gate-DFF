@@ -1,0 +1,6 @@
+$DATA1 SOURCE='HSPICE' VERSION='A-2008.03 32-BIT'
+.TITLE '*ff*'
+ t_rise           t_fall           setuptime        holdtime          
+ t_clk_q          temper           alter#            
+  1.284e-10        9.764e-11       -3.205e-08        3.205e-08        
+  5.817e-08         25.0000           1.0000         

@@ -1,0 +1,6 @@
+$DATA1 SOURCE='HSPICE' VERSION='A-2008.03 32-BIT'
+.TITLE '* transmission gate dff*'
+ t_rise           t_fall           setuptime        holdtime          
+ t_clk_q          temper           alter#            
+  1.380e-10        1.385e-10       -3.205e-08        3.205e-08        
+ -1.933e-09         25.0000           1.0000         
